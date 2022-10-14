@@ -26,7 +26,7 @@ body {
     
 }
 fieldset {
-    padding: 10px;
+    padding: 30px;
     background-color: rgb(221, 215, 215);
     
 }
@@ -47,4 +47,14 @@ select {
  .Gender {
     display: inline;
     width: auto;
+ }
+ .Input {
+    width: 250px;
+ }
+ .age {
+    width: 70px;
+ }
+ .Person {
+    
+    font-size: 15px;
  }
