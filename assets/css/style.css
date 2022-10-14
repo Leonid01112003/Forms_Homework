@@ -44,3 +44,7 @@ select {
     width: 150px;
     height: 30px;
 }
+ .Gender {
+    display: inline;
+    width: auto;
+ }
